@@ -1,0 +1,10 @@
+,Metrics (Mean ± Std)
+TN,17366.67 ± 1059.87
+FP,8866.67 ± 723.42
+FN,3566.67 ± 208.17
+TP,7700.00 ± 360.56
+Accuracy,66.83 ± 2.68
+Sensitivity,68.33 ± 1.99
+Specificity,66.18 ± 2.97
+ROC AUC,71.93 ± 2.69
+F1 Score,55.35 ± 2.70
