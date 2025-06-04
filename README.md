@@ -1,6 +1,6 @@
 # Large Language Models for Early Prediction of Antimicrobial Multidrug Resistance in Intensive Care Unit
 
-This repository contains the code developed for my Bachelor Thesis, focused on the development and analysis of Large Language Models (LLMs) adapted for multivariate clinical time series (TS) to enable early prediction of Antimicrobial Multidrug Resistance (AMR) in ICU patients.
+This repository contains the code developed for my Bachelor Thesis, focused on the development and analysis of Large Language Models (LLMs) adapted for clinical Multivariate Time Series (MTS) to enable early prediction of Antimicrobial Multidrug Resistance (AMR) in ICU patients.
 
 ---
 
